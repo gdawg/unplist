@@ -1,0 +1,10 @@
+build
+*.o
+unplist
+
+# I have one, but would rather keep the repo clean
+*.xcodeproj 
+# ... I also (sometimes) have these
+.idea
+*.swp
+
